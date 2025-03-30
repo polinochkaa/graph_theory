@@ -1,0 +1,10 @@
+True
+True
+S A 16
+S C 13
+A B 12
+C A 4
+C D 14
+B T 20
+D B 7
+D T 4

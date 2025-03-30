@@ -1,0 +1,16 @@
+False
+True
+A B 7
+A D 5
+B A 7
+B E 7
+B C 2
+B D 2
+D A 5
+D E 15
+D B 2
+C E 5
+C B 2
+E B 7
+E C 5
+E D 15
